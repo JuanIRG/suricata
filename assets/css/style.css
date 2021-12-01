@@ -1,0 +1,27 @@
+*{
+    font-family: Open Sans,sans-serif;
+}
+
+.bg-color-pink{ 
+    background-color:#E83E8C;
+}
+
+.color-#FFFFFF{
+    color:#FFFFFF;
+}
+.color-letra{
+    color:#707070;
+}
+.color-letra-card{
+    color:#373A3C;
+}
+
+.bg-aceptamos{
+    background-color:#17A2B8;
+}
+
+@media (max-width: 768px) {
+    #tarjetas{
+        display: none;
+    }
+ }
